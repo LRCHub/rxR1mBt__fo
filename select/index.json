@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "夏色",
+  "base_artist": "ゆず",
+  "createdAt": "2026-01-04T16:48:35.893226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/01_夏色_ゆず.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_夏色_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/03_夏色_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏色 [再録] - Natsuiro Sairoku",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/04_夏色_[再録]_-_Natsuiro_Sairoku_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/05_夏色_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/06_夏色_ゆず.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夏色 - Natsuiro",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/07_夏色_-_Natsuiro_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/08_夏色_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/09_夏色_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夏色",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/10_夏色_YUZU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏色",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_夏色_ゆず.txt"
+    }
+  ]
+}
